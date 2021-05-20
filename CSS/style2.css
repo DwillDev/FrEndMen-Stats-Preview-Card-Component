@@ -1,0 +1,97 @@
+*{
+    box-sizing:border-box;
+}
+
+body{
+    height:100vh;
+    background-color: hsl(233, 47%, 7%);
+    font-size: 1rem;
+    font-family: 'Inter', sans-serif;
+    overflow:hidden;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header , .stat-number{
+    color:white;
+}
+ 
+span{
+    color: hsl(277,64%, 61%);
+}
+
+.container{
+    position:relative;
+    height:50%;
+    width:63%;
+    background-color:hsl(244,38%,16%);
+    border-radius:.7rem;
+    display:grid;
+    grid-template: 1fr 1fr 1fr/ repeat(2 , 1fr);
+    grid-template-areas:"l r"
+                        "l r"
+                        "l r" ;
+}
+
+.left{
+    grid-area: l;
+    padding:3rem 5.5rem 0 4rem;
+    display:grid;
+    grid-template: 8.2rem 1fr 1fr / 1fr;
+    grid-template-areas:"h"
+                        "m"
+                        "s";
+                        
+}
+
+.right{
+    grid-area: r;
+    border-radius: 0 .7rem .7rem 0;
+    background:linear-gradient(hsla(278, 89%, 25%, .65) , hsla(278, 89%, 25%, .65)) , url(../images/image-header-desktop.jpg) no-repeat;
+    background-size:cover;
+
+}
+
+header{
+    font-size:1.2rem;
+    grid-area:h;
+}
+
+main , section{
+    padding-right:4rem;
+}
+
+main{
+    color:hsla(0,0%,100%,0.75);
+    line-height: 1.75rem;
+    grid-area: m;
+
+} 
+
+section{
+    display:flex;
+    justify-content: space-between;
+    text-align: left;
+    grid-area: s;
+    margin-top: 5rem;;
+}
+
+.stat-number{
+    font-weight:700;
+    font-size:1.6rem;
+    margin-bottom:.3rem;
+}
+
+.stat-header{
+    font-family: 'Lexend Deca', sans-serif;
+    color:hsla(0,0%,100%,0.6);
+    text-transform: uppercase;
+    letter-spacing: .08rem;
+    font-size:.76rem; 
+    padding-bottom: 4.5rem;
+}
+
+section > div{
+    margin-right:2.1rem;
+}
