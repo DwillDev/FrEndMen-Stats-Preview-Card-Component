@@ -44,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-One of the most important things I learned through completing this project was creating a responsive website purely through the use of CSS. A large amount of trial and error took place over the course of over a week and many hours until I was able to reach a level of responsiveness that I was proud of. In addition to that, I also learned about different elements such as object-ft and object-position and the properties that grid and flexbox share that I was not aware of and how much easier it is to start witht he mobile-first approach and work upwards.
+One of the most important things I learned through completing this project was creating a responsive website purely through the use of CSS. A large amount of trial and error took place over the course of over a week and many hours until I was able to reach a level of responsiveness that I was proud of. In addition to that, I also learned about different elements such as object-fit and object-position and the properties that grid and flexbox share that I was not aware of and how much easier it is to start witht he mobile-first approach and work upwards.
 
 I can't say im particularly proud of my code, as I am sure that there are many things I could have done to mitigate the amount of media queries or shrink the div container in a more user-pleasing way.
 
