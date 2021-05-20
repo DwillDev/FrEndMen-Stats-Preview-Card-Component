@@ -347,9 +347,3 @@ section > div{
         
     }
 
-@media only screen and (orientation:landscape) and (min-width:2300px){
-
-    body,html{
-        font-size:70%;
-        }
-    }
