@@ -14,7 +14,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -32,7 +31,6 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
@@ -46,35 +44,22 @@ Users should be able to:
 
 ### What I learned
 
-One of the most important hings I learned through completing this project was creating a responsive website purely through the use of CSS. A large amount of trial and error took place over the course of over a week and many hours until I was able to reach a level of responsiveness that I was proud of
+One of the most important things I learned through completing this project was creating a responsive website purely through the use of CSS. A large amount of trial and error took place over the course of over a week and many hours until I was able to reach a level of responsiveness that I was proud of. In addition to that, I also learned about different elements such as object-ft and object-position and the properties that grid and flexbox share that I was not aware of and how much easier it is to start witht he mobile-first approach and work upwards.
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+I can't say im particularly proud of my code, as I am sure that there are many things I could have done to mitigate the amount of media queries or shrink the div container in a more user-pleasing way.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+In future projects, I am interested in figuring out ways to use less code to get to the end product as well as becoming more comfortable with flexbox and grid so that I don't run into as many issues getting a webpage to look the way I want to on various screen sizes.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- Stack Overflow https://stackoverflow.com/ - This was a huge help to me because I could read similar issues that other coders were having and utilize their solutions.
+- Angela Delise https://www.youtube.com/channel/UC_TjoSnaI3CTgIgmSn3rruA - I watched several of her videos when I was stuck, the main one which helped me was her video on responsive cards using flexbox and grid.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@naiwilliams](https://www.frontendmentor.io/profile/naiwilliams)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
