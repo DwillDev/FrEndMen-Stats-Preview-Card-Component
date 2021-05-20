@@ -55,8 +55,8 @@ In future projects, I am interested in figuring out ways to use less code to get
 
 ### Useful resources
 
-- Stack Overflow (https://stackoverflow.com/) - This was a huge help to me because I could read similar issues that other coders were having and utilize their solutions.
-- Angela Delise (https://www.youtube.com/channel/UC_TjoSnaI3CTgIgmSn3rruA) - I watched several of her videos when I was stuck, the main one which helped me was her video on responsive cards using flexbox and grid.
+- [Stack Overflow] (https://stackoverflow.com/) - This was a huge help to me because I could read similar issues that other coders were having and utilize their solutions.
+- [Angela Delise] (https://www.youtube.com/channel/UC_TjoSnaI3CTgIgmSn3rruA) - I watched several of her videos when I was stuck, the main one which helped me was her video on responsive cards using flexbox and grid.
 
 
 ## Author
