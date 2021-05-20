@@ -128,6 +128,8 @@ html, body{
     flex-direction: row;
     min-width:600px;
     min-height:400px;
+    max-width:3500px;
+    max-height:2000px;
 }
 
 .container > div{
