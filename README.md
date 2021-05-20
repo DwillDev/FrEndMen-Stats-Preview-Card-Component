@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Here](https://www.frontendmentor.io/solutions/stats-preview-card-using-css-flexbox-and-grid-ojSMv1k-R)
 
 ## My process
 
