@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Here](https://www.frontendmentor.io/solutions/stats-preview-card-using-css-flexbox-and-grid-ojSMv1k-R)
+- Solution URL: [Here](https://naiwilliams.github.io/Stats-Preview-Card-Component/)
 
 ## My process
 
