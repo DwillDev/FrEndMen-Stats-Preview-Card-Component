@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Here](https://naiwilliams.github.io/Stats-Preview-Card-Component/)
+- Solution URL: [Here](https://naiwilliams.github.io//FrEndMen-Stats-Preview-Card-Component)
 
 ## My process
 
